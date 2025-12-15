@@ -1,2 +1,14 @@
-# TIS-E-Portfolio-2025
+# TIS-E-Portfolio-2025/2026
 E-portfolio for Technology and Information System (SECP1513)
+Name : Siti Zulaikha binti Abdol Razid
+Course : Technology and Information System (SECP1513)
+## About This E-Portfolio
+This repository contains my assignments and reflections for the TIS course. 
+It documents my learning experience, skills gained and personal reflections troughout this semester.
+
+## Contents
+- Assignments
+- Reflections
+- Industry Talk & Industry Visit
+- PC Assembly Lab
+- Design Thinking Project
