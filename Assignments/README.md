@@ -4,3 +4,4 @@ This folder contains all course assignments.
 
 
 ## Assignment 2 : Industrial Talk Poster
+![Project Preview](assets/logo.png)
