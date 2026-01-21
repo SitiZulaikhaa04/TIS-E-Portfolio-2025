@@ -8,7 +8,8 @@ It documents my learning experience, skills gained and personal reflections trou
 
 ## Contents
 - [Assignments](https://github.com/SitiZulaikhaa04/TIS-E-Portfolio-2025/tree/main/Assignments)
-- Reflections
-- Industry Talk & Industry Visit
-- PC Assembly Lab
-- Design Thinking Project
+  > - Industry Talk & Industry Visit
+  > - PC Assembly Lab
+  > - Design Thinking Project
+
+- [Reflections](https://github.com/SitiZulaikhaa04/TIS-E-Portfolio-2025/tree/main/Reflections)
