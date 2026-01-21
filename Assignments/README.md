@@ -9,3 +9,7 @@ This folder showcases all major course assignments, each reflecting a unique lea
 ## Design Thinking Project
 - 📊 [View Slides on Canva](https://www.canva.com/design/DAG5ifvZYFs/HG42i5LaGWzEqEKFoIZUgw/view?utm_content=DAG5ifvZYFs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha3e33e338a)
 
+## Assignment 2: Industrial Talk Poster
+- [🖥️ PC Assembling Steps](
+  
+
