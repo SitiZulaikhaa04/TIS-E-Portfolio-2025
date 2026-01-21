@@ -1,5 +1,6 @@
 #  Reflections Table
 
+
 | Assignment                | Summary                                                                 | Improvement                                                                 |
 |---------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | 🖥️ PC Assembly            | Hands-on session on Nov 11, 2025 guided by senior technicians. Learned how CPU, RAM, HDD, and motherboard work together through disassembly/reassembly. | Improve speed and confidence in assembling components; practice cable management and troubleshooting common errors. |
