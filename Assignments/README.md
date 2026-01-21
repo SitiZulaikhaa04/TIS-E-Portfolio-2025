@@ -10,6 +10,6 @@ This folder showcases all major course assignments, each reflecting a unique lea
 - 📊 [View Slides on Canva](https://www.canva.com/design/DAG5ifvZYFs/HG42i5LaGWzEqEKFoIZUgw/view?utm_content=DAG5ifvZYFs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha3e33e338a)
 
 ## Assignment 2: Industrial Talk Poster
-- [🖥️ PC Assembling Steps](Assignments/CPU Components.pdf)
+- [🖥️ PC Assembling Steps](https://github.com/SitiZulaikhaa04/TIS-E-Portfolio-2025/blob/ded50154989d293dc9e85ffe7aa90449c2b71d14/Assignments/CPU%20Components.pdf)
   
 
