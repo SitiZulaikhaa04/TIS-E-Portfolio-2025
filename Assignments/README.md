@@ -1,4 +1,4 @@
-This folder contains all course assignments.
+This folder showcases all major course assignments, each reflecting a unique learning experience and creative output.
 
 ## Assignment 1: Industrial Visit Video
 - [🎥 Video for Industrial Visit](https://drive.google.com/drive/folders/1468Ck6ZfDm_RMnc3NxsL1W3i5kBpEKx3)
