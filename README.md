@@ -12,4 +12,4 @@ It documents my learning experience, skills gained and personal reflections trou
   > - PC Assembly Lab
   > - Design Thinking Project
 
-- [Reflections](https://github.com/SitiZulaikhaa04/TIS-E-Portfolio-2025/tree/main/Reflections)
+- [Reflections](https://github.com/SitiZulaikhaa04/TIS-E-Portfolio-2025/blob/main/Reflections/PC_Assemble_Reflection.md)
