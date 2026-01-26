@@ -11,5 +11,8 @@ This folder showcases all major course assignments, each reflecting a unique lea
 
 ## PC Assemble Lab
 - [🖥️ PC Assembling Steps](https://github.com/SitiZulaikhaa04/TIS-E-Portfolio-2025/blob/ded50154989d293dc9e85ffe7aa90449c2b71d14/Assignments/CPU%20Components.pdf)
+
+## Assignment 4: Industrial Visit NewsLetter
+-🏭[Newslater Jcop](https://github.com/SitiZulaikhaa04/TIS-E-Portfolio-2025/blob/main/Assignments/assignment%204.pdf)
   
 
